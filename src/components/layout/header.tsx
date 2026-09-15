@@ -74,7 +74,7 @@ export function Header({ user }: { user?: any }) {
               </div>
               <div className="flex flex-col">
                 <span className="text-xl font-extrabold text-slate-900 tracking-tight dark:text-white leading-none">
-                  سوق النخبة
+                  سوق النمر
                 </span>
                 <span className="text-[10px] font-semibold text-brand-600 uppercase tracking-widest mt-1">
                   SOUQ ELITE

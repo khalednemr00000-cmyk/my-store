@@ -75,7 +75,7 @@ export function Footer() {
               <div className="w-9 h-9 rounded-xl bg-brand-600 flex items-center justify-center text-white font-black text-lg">
                 س
               </div>
-              <span className="text-xl font-black text-white">سوق النخبة</span>
+              <span className="text-xl font-black text-white">سوق النمر</span>
             </Link>
             <p className="text-xs leading-relaxed text-slate-400 max-w-sm">
               وجهتكم الأولى للتسوق الإلكتروني الراقي في المملكة العربية السعودية والشرق الأوسط.
@@ -192,7 +192,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-6 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <p>
-            جميع الحقوق محفوظة © {new Date().getFullYear()} سوق النخبة (Souq Elite) - مسجل تجارياً
+            جميع الحقوق محفوظة © {new Date().getFullYear()} سوق النمر (Souq Elite) - مسجل تجارياً
           </p>
           <div className="flex items-center gap-3">
             <span className="bg-slate-800 px-2 py-1 rounded text-[10px] text-slate-300 font-semibold">
